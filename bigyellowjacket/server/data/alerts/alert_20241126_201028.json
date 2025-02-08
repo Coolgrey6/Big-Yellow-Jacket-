@@ -1,0 +1,64 @@
+{
+  "timestamp": "2024-11-26T20:10:28.133214",
+  "type": "rapid_reconnection",
+  "endpoint": {
+    "host": "::1",
+    "port": 51554,
+    "protocol": "TCP",
+    "process_info": {
+      "pid": 20796,
+      "name": "python.exe",
+      "path": "C:\\Program Files\\Python313\\python.exe",
+      "command_line": "C:\\Program Files\\Python313\\python.exe .\\run.py",
+      "username": "LAPTOP-8J8JSDN3\\dbug",
+      "creation_time": "2024-11-26 19:26:24.957355",
+      "cpu_percent": 0.0,
+      "memory_percent": 1.0165623451314534,
+      "status": "running",
+      "tcp_connections": 0,
+      "udp_connections": 0,
+      "read_bytes": 0,
+      "write_bytes": 0
+    },
+    "traffic_samples": [],
+    "security_assessment": {
+      "risk_level": "LOW",
+      "risk_factors": [
+        "Suspicious process: python.exe"
+      ],
+      "recommendation": "Normal monitoring recommended",
+      "threat_indicators": [],
+      "trust_score": 1.0,
+      "detection_rules_triggered": []
+    },
+    "latency": 1.0,
+    "is_safe": true,
+    "country": "Unknown",
+    "city": "Unknown",
+    "organization": "Unknown",
+    "open_ports": [],
+    "is_private": true,
+    "packet_loss": 0.0,
+    "rtt_stats": {
+      "packet_loss": 0.0,
+      "min_rtt": 1.0,
+      "max_rtt": 1.0,
+      "avg_rtt": 1.0,
+      "samples": 2,
+      "status": "success"
+    },
+    "last_seen": "2024-11-26T20:10:24.058335",
+    "connection_count": 0,
+    "bytes_sent": 0,
+    "bytes_received": 0,
+    "avg_packet_size": 0.0,
+    "connection_state": "ESTABLISHED",
+    "encryption_type": "NONE",
+    "certificate_info": {},
+    "dns_queries": [],
+    "http_requests": []
+  },
+  "details": {
+    "count": 16
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "malicious_ips": [],
+  "threat_patterns": [
+    {
+      "name": "SQL Injection",
+      "pattern": "(?i)(union|select|insert|delete|update|drop|--)",
+      "risk_level": "HIGH"
+    }
+  ],
+  "known_threats": {},
+  "risk_scores": {
+    "known_malicious": 1.0,
+    "suspicious_port": 0.7,
+    "unusual_traffic": 0.5,
+    "unknown_process": 0.3
+  }
+}

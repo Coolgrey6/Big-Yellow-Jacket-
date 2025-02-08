@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Big Yellow Jacket - WebSocket Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; max-width: 1200px; margin: 0 auto; }
+        .log { padding: 8px; margin: 4px 0; border-radius: 4px; font-family: monospace; }
+        .error { color: #721c24; background-color: #f8d7da; }
+        .success { color: #155724; background-color: #d4edda; }
+        .warning { color: #856404; background-color: #fff3cd; }
+        .info { color: #0c5460; background-color: #d1ecf1; }
+        #status { padding: 10px; font-weight: bold; text-align: center; }
+        .connected { color: green; }
+        .disconnected { color: red; }
+        .connecting { color: orange; }
+        .controls { margin: 20px 0; text-align: center; }
+        button { padding: 8px 16px; margin: 0 4px; }
+        #metrics { margin-top: 20px; }
+        .metric-card {
+            background: #f8f9fa;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Big Yellow Jacket WebSocket Test</h1>
+    <div id="status">Disconnected</div>
+    
+    <div class="controls">
+        <button onclick="connect()">Connect</button>
+        <button onclick="disconnect()">Disconnect</button>
+        <button onclick="clearLogs()">Clear Logs</button>
+    </div>
+
+    <div id="metrics"></div>
+    <div id="log"></div>
+
+    <script>
+        let ws = null;
+        let reconnectAttempts = 0;
+        const MAX_RECONNECT_ATTEMPTS = 5;
+
+        function addLog(message, type = 'info') {
+            const div = document.createElement('div');
+            div.className = `log ${type}`;
+            div.textContent = `${new Date().toISOString()}: ${message}`;
+            document.getElementById('log').prepend(div);
+            console.log(`[${type}] ${message}`);
+        }
+
+        function updateStatus(message, className) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            status.className = className;
+        }
+
+        function clearLogs() {
+            document.getElementById('log').innerHTML = '';
+        }
+
+        function disconnect() {
+            if (ws) {
+                ws.close();
+                addLog('Manually disconnected', 'warning');
+            }
+        }
+
+        function connect() {
+            if (ws && ws.readyState === WebSocket.OPEN) {
+                addLog('Already connected', 'warning');
+                return;
+            }
+
+            try {
+                updateStatus('Connecting...', 'connecting');
+                addLog('Attempting WebSocket connection...', 'info');
+
+                // Create WebSocket connection
+                ws = new WebSocket('ws://localhost:8765');
+
+                ws.onopen = () => {
+                    reconnectAttempts = 0;
+                    updateStatus('Connected', 'connected');
+                    addLog('WebSocket connection established', 'success');
+
+                    // Send initial hello message
+                    ws.send(JSON.stringify({
+                        command: 'hello',
+                        data: {
+                            client: 'web-test',
+                            timestamp: new Date().toISOString()
+                        }
+                    }));
+                };
+
+                ws.onmessage = (event) => {
+                    try {
+                        const data = JSON.parse(event.data);
+                        addLog(`Received: ${JSON.stringify(data, null, 2)}`, 'success');
+                        updateMetrics(data);
+                    } catch (e) {
+                        addLog(`Error parsing message: ${e.message}`, 'error');
+                    }
+                };
+
+                ws.onerror = (error) => {
+                    updateStatus('Error', 'disconnected');
+                    addLog(`WebSocket error: ${error.type}`, 'error');
+                    console.error('WebSocket error:', error);
+                };
+
+                ws.onclose = (event) => {
+                    updateStatus('Disconnected', 'disconnected');
+                    let message = `WebSocket closed: ${event.code}`;
+                    if (event.reason) message += ` - ${event.reason}`;
+                    addLog(message, 'warning');
+
+                    // Attempt to reconnect if not manually closed
+                    if (event.code !== 1000 && reconnectAttempts < MAX_RECONNECT_ATTEMPTS) {
+                        const delay = Math.min(1000 * Math.pow(2, reconnectAttempts), 10000);
+                        addLog(`Reconnecting in ${delay/1000} seconds...`, 'info');
+                        reconnectAttempts++;
+                        setTimeout(connect, delay);
+                    }
+                };
+
+            } catch (error) {
+                addLog(`Connection error: ${error.message}`, 'error');
+                updateStatus('Connection Failed', 'disconnected');
+            }
+        }
+
+        function updateMetrics(data) {
+            if (data.message_type === 'metrics_update') {
+                const metrics = document.getElementById('metrics');
+                metrics.innerHTML = `
+                    <div class="metric-card">
+                        <h3>System Metrics</h3>
+                        <p>CPU: ${data.data.system.cpu}%</p>
+                        <p>Memory: ${data.data.system.memory}%</p>
+                    </div>
+                    <div class="metric-card">
+                        <h3>Network Metrics</h3>
+                        <p>Active Connections: ${data.data.connections.active}</p>
+                        <p>Safe Connections: ${data.data.connections.safe}</p>
+                        <p>Suspicious: ${data.data.connections.suspicious}</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Start connection
+        connect();
+
+        // Keep-alive ping
+        setInterval(() => {
+            if (ws && ws.readyState === WebSocket.OPEN) {
+                ws.send(JSON.stringify({
+                    command: 'ping',
+                    timestamp: new Date().toISOString()
+                }));
+            }
+        }, 30000);
+    </script>
+</body>
+</html>

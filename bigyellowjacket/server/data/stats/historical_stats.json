@@ -1,0 +1,149 @@
+{
+  "hourly": [
+    {
+      "timestamp": "2024-12-23 12:50:26.972225",
+      "stats": {
+        "system": {
+          "cpu_percent": 3.9,
+          "memory_percent": 91.0,
+          "memory_used": 3580141568,
+          "memory_total": 3934175232,
+          "disk_percent": 88.6,
+          "network_bytes_sent": 403315965,
+          "network_bytes_recv": 5057565450
+        },
+        "connections": {
+          "active": 10,
+          "total": 10,
+          "blocked": 0,
+          "suspicious": 0,
+          "safe": 10
+        },
+        "traffic": {
+          "total_bytes_monitored": 0,
+          "bytes_sent": 0,
+          "bytes_received": 0
+        },
+        "security": {
+          "total_alerts": 0,
+          "recent_alerts": 0,
+          "blocked_ips": 0,
+          "inbound_blocked": false,
+          "outbound_blocked": false
+        },
+        "processes": {
+          "total": 3,
+          "types": 3
+        },
+        "status": {
+          "monitoring_enabled": true,
+          "last_check": 1734987021.1044173,
+          "check_interval": 2
+        },
+        "timestamp": "2024-12-23T12:50:26.972227"
+      }
+    },
+    {
+      "timestamp": "2024-12-23 13:50:32.993863",
+      "stats": {
+        "system": {
+          "cpu_percent": 6.0,
+          "memory_percent": 89.8,
+          "memory_used": 3531620352,
+          "memory_total": 3934175232,
+          "disk_percent": 88.6,
+          "network_bytes_sent": 429438235,
+          "network_bytes_recv": 5225992317
+        },
+        "connections": {
+          "active": 14,
+          "total": 109,
+          "blocked": 0,
+          "suspicious": 0,
+          "safe": 14
+        },
+        "traffic": {
+          "total_bytes_monitored": 0,
+          "bytes_sent": 0,
+          "bytes_received": 0
+        },
+        "security": {
+          "total_alerts": 32,
+          "recent_alerts": 32,
+          "blocked_ips": 0,
+          "inbound_blocked": false,
+          "outbound_blocked": false
+        },
+        "processes": {
+          "total": 3,
+          "types": 3
+        },
+        "status": {
+          "monitoring_enabled": true,
+          "last_check": 1734990626.8338635,
+          "check_interval": 2
+        },
+        "timestamp": "2024-12-23T13:50:32.993865",
+        "trends": {
+          "connections": {
+            "change": 0,
+            "change_rate": 0.0
+          },
+          "traffic": {
+            "bytes_change": 0,
+            "bytes_rate": 0.0
+          },
+          "security": {
+            "alerts_change": 0,
+            "alerts_rate": 0.0
+          }
+        }
+      }
+    }
+  ],
+  "daily": [
+    {
+      "timestamp": "2024-12-23 12:50:26.972225",
+      "stats": {
+        "system": {
+          "cpu_percent": 3.9,
+          "memory_percent": 91.0,
+          "memory_used": 3580141568,
+          "memory_total": 3934175232,
+          "disk_percent": 88.6,
+          "network_bytes_sent": 403315965,
+          "network_bytes_recv": 5057565450
+        },
+        "connections": {
+          "active": 10,
+          "total": 10,
+          "blocked": 0,
+          "suspicious": 0,
+          "safe": 10
+        },
+        "traffic": {
+          "total_bytes_monitored": 0,
+          "bytes_sent": 0,
+          "bytes_received": 0
+        },
+        "security": {
+          "total_alerts": 0,
+          "recent_alerts": 0,
+          "blocked_ips": 0,
+          "inbound_blocked": false,
+          "outbound_blocked": false
+        },
+        "processes": {
+          "total": 3,
+          "types": 3
+        },
+        "status": {
+          "monitoring_enabled": true,
+          "last_check": 1734987021.1044173,
+          "check_interval": 2
+        },
+        "timestamp": "2024-12-23T12:50:26.972227"
+      }
+    }
+  ]
+}

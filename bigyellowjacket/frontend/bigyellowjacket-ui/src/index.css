@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: 251, 191, 36;
+  --primary-dark: 180, 83, 9;
+  --primary-light: 253, 230, 138;
+}
+
+body {
+  @apply bg-gray-100;
+}

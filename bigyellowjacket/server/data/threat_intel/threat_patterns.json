@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Data Exfiltration",
+    "indicators": [
+      "large_outbound_traffic",
+      "encrypted_tunnel",
+      "unusual_ports"
+    ],
+    "severity": "HIGH"
+  },
+  {
+    "name": "Lateral Movement",
+    "indicators": [
+      "multiple_internal_connections",
+      "credential_access",
+      "admin_share_access"
+    ],
+    "severity": "HIGH"
+  }
+]

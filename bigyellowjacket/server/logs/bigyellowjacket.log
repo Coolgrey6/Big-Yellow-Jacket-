@@ -1,0 +1,1389 @@
+2024-11-26 19:23:41 [INFO] Loaded threat intelligence data: 3 IPs, 2 patterns
+2024-11-26 19:23:41 [INFO] Starting console updates...
+2024-11-26 19:23:41 [INFO] Starting network monitoring...
+2024-11-26 19:23:42 [INFO] WebSocket server started on ws://localhost:8765
+2024-11-26 19:23:47 [INFO] Client registered. Total clients: 1
+2024-11-26 19:23:47 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:23:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:24:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:25:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:26:12 [INFO] Shutdown signal received...
+2024-11-26 19:26:12 [INFO] Stopping console updates...
+2024-11-26 19:26:12 [INFO] WebSocket server shutdown initiated
+2024-11-26 19:26:12 [INFO] Tasks cancelled, shutting down...
+2024-11-26 19:26:12 [INFO] Application shutdown complete
+2024-11-26 19:26:25 [INFO] Loaded threat intelligence data: 3 IPs, 2 patterns
+2024-11-26 19:26:25 [INFO] Starting console updates...
+2024-11-26 19:26:25 [INFO] Starting network monitoring...
+2024-11-26 19:26:26 [INFO] WebSocket server started on ws://localhost:8765
+2024-11-26 19:26:26 [INFO] Client registered. Total clients: 1
+2024-11-26 19:26:26 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:26:41 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:26:44 [INFO] Client registered. Total clients: 1
+2024-11-26 19:26:44 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:27:03 [INFO] Client registered. Total clients: 2
+2024-11-26 19:27:03 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:27:09 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-11-26 19:27:09 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-11-26 19:27:09 [INFO] Client registered. Total clients: 2
+2024-11-26 19:27:09 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:27:14 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:27:14 [INFO] Client registered. Total clients: 3
+2024-11-26 19:27:44 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:28:14 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:28:44 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:29:14 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:29:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:30:19 [INFO] Client registered. Total clients: 2
+2024-11-26 19:30:19 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:30:24 [INFO] Client registered. Total clients: 3
+2024-11-26 19:30:40 [INFO] Client registered. Total clients: 2
+2024-11-26 19:30:40 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:30:45 [INFO] Client registered. Total clients: 3
+2024-11-26 19:30:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:31:13 [INFO] Client registered. Total clients: 3
+2024-11-26 19:31:13 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:31:43 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:31:48 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-11-26 19:31:48 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-11-26 19:31:48 [INFO] Client registered. Total clients: 2
+2024-11-26 19:31:48 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:31:52 [INFO] Client registered. Total clients: 3
+2024-11-26 19:32:14 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:32:44 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:33:14 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:33:44 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:34:46 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:35:48 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:36:47 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:37:48 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:38:37 [INFO] Client registered. Total clients: 2
+2024-11-26 19:38:37 [INFO] Client connection closed normally
+2024-11-26 19:38:49 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:39:50 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:40:51 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:41:52 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:42:53 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:43:07 [INFO] Client registered. Total clients: 2
+2024-11-26 19:43:07 [INFO] Client registered. Total clients: 3
+2024-11-26 19:43:21 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:43:26 [INFO] Client registered. Total clients: 2
+2024-11-26 19:43:26 [INFO] Client registered. Total clients: 3
+2024-11-26 19:43:26 [INFO] Client registered. Total clients: 4
+2024-11-26 19:43:40 [INFO] Client registered. Total clients: 2
+2024-11-26 19:43:40 [INFO] Client registered. Total clients: 3
+2024-11-26 19:43:40 [INFO] Client connection closed normally
+2024-11-26 19:43:40 [INFO] Client registered. Total clients: 3
+2024-11-26 19:43:40 [INFO] Client registered. Total clients: 4
+2024-11-26 19:43:44 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:44:18 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:44:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:45:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:46:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:47:56 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:48:56 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:49:55 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:50:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:51:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:52:18 [INFO] Client registered. Total clients: 2
+2024-11-26 19:52:18 [INFO] Client registered. Total clients: 3
+2024-11-26 19:52:25 [INFO] Client registered. Total clients: 2
+2024-11-26 19:52:25 [INFO] Client registered. Total clients: 3
+2024-11-26 19:52:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:53:07 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:53:07 [INFO] Client registered. Total clients: 3
+2024-11-26 19:53:13 [INFO] Client registered. Total clients: 3
+2024-11-26 19:53:13 [INFO] Client registered. Total clients: 4
+2024-11-26 19:53:26 [INFO] Client registered. Total clients: 2
+2024-11-26 19:53:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:54:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:55:55 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:56:56 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:57:55 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:58:32 [INFO] Client registered. Total clients: 3
+2024-11-26 19:58:32 [INFO] Client registered. Total clients: 4
+2024-11-26 19:58:32 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:58:43 [INFO] Client registered. Total clients: 2
+2024-11-26 19:58:43 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:58:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:59:15 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-11-26 19:59:15 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-11-26 19:59:15 [INFO] Client registered. Total clients: 2
+2024-11-26 19:59:15 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 19:59:56 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:00:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:01:18 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-11-26 20:01:18 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-11-26 20:01:18 [INFO] Client registered. Total clients: 2
+2024-11-26 20:01:18 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:01:18 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:01:24 [INFO] Client registered. Total clients: 3
+2024-11-26 20:01:31 [INFO] Client registered. Total clients: 2
+2024-11-26 20:01:31 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:01:31 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:01:47 [INFO] Client registered. Total clients: 2
+2024-11-26 20:01:47 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:02:18 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:02:48 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:03:18 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:03:48 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:04:18 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:04:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:05:14 [INFO] Client registered. Total clients: 2
+2024-11-26 20:05:14 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:05:14 [INFO] Client registered. Total clients: 3
+2024-11-26 20:05:29 [INFO] Client registered. Total clients: 2
+2024-11-26 20:05:29 [INFO] Client registered. Total clients: 3
+2024-11-26 20:05:29 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:05:40 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:05:42 [INFO] Client registered. Total clients: 3
+2024-11-26 20:05:42 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:06:13 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:06:44 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:07:17 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:07:45 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:08:13 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:08:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:09:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:10:03 [INFO] Client registered. Total clients: 4
+2024-11-26 20:10:03 [INFO] Client registered. Total clients: 4
+2024-11-26 20:10:03 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:10:15 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:10:20 [INFO] Client registered. Total clients: 2
+2024-11-26 20:10:20 [INFO] Client registered. Total clients: 3
+2024-11-26 20:10:20 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:10:20 [INFO] Client registered. Total clients: 4
+2024-11-26 20:10:20 [INFO] Client registered. Total clients: 5
+2024-11-26 20:10:43 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:11:13 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:11:41 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:11:47 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:11:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:12:26 [INFO] Client registered. Total clients: 2
+2024-11-26 20:12:26 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:12:26 [INFO] Client registered. Total clients: 3
+2024-11-26 20:12:26 [INFO] Client registered. Total clients: 4
+2024-11-26 20:12:26 [INFO] Client registered. Total clients: 5
+2024-11-26 20:12:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:13:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:13:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:14:29 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-11-26 20:14:30 [INFO] Client registered. Total clients: 2
+2024-11-26 20:14:30 [INFO] Client registered. Total clients: 3
+2024-11-26 20:14:30 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:14:30 [INFO] Client registered. Total clients: 4
+2024-11-26 20:14:30 [INFO] Client registered. Total clients: 5
+2024-11-26 20:14:52 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:14:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:15:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:16:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:17:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:18:55 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:19:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:20:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:21:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:22:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:23:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:24:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:25:22 [ERROR] Error in metric broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-11-26 20:25:22 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-11-26 20:25:22 [INFO] Client registered. Total clients: 2
+2024-11-26 20:25:22 [INFO] Client registered. Total clients: 3
+2024-11-26 20:25:22 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:25:22 [INFO] Client registered. Total clients: 4
+2024-11-26 20:25:22 [INFO] Client registered. Total clients: 5
+2024-11-26 20:25:54 [ERROR] Error handling message: name 'path' is not defined
+2024-11-26 20:26:14 [INFO] Shutdown signal received...
+2024-11-26 20:26:14 [INFO] Stopping console updates...
+2024-11-26 20:26:14 [INFO] WebSocket server shutdown initiated
+2024-11-26 20:26:14 [INFO] Tasks cancelled, shutting down...
+2024-11-26 20:26:14 [INFO] Application shutdown complete
+2024-12-20 15:25:22 [INFO] Loaded threat intelligence data: 3 IPs, 2 patterns
+2024-12-20 15:25:22 [INFO] Starting console updates...
+2024-12-20 15:25:22 [INFO] Starting network monitoring...
+2024-12-20 15:25:23 [INFO] WebSocket server started on ws://localhost:8765
+2024-12-20 15:25:56 [INFO] Client registered. Total clients: 1
+2024-12-20 15:25:56 [INFO] Client registered. Total clients: 2
+2024-12-20 15:25:56 [INFO] Client registered. Total clients: 3
+2024-12-20 15:25:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-20 15:25:56 [INFO] Client registered. Total clients: 4
+2024-12-20 15:37:26 [INFO] Client connection closed normally
+2024-12-20 15:37:27 [INFO] Client connection closed normally
+2024-12-20 15:37:27 [INFO] Client connection closed normally
+2024-12-20 15:37:27 [INFO] Client connection closed normally
+2024-12-20 15:37:27 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-20 15:37:27 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-20 15:37:37 [INFO] Client registered. Total clients: 1
+2024-12-20 15:37:38 [INFO] Client registered. Total clients: 2
+2024-12-20 15:37:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-20 15:37:38 [INFO] Client registered. Total clients: 3
+2024-12-20 15:37:38 [INFO] Client registered. Total clients: 4
+2024-12-20 15:46:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-20 16:02:40 [ERROR] Error in metric broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-20 16:02:40 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-20 16:02:40 [INFO] Client connection closed normally
+2024-12-20 16:02:40 [INFO] Client connection closed normally
+2024-12-20 16:02:40 [INFO] Client connection closed normally
+2024-12-20 16:02:40 [INFO] Client connection closed normally
+2024-12-20 16:02:43 [INFO] Client registered. Total clients: 1
+2024-12-20 16:02:43 [INFO] Client registered. Total clients: 2
+2024-12-20 16:02:43 [INFO] Client registered. Total clients: 3
+2024-12-20 16:02:43 [INFO] Client registered. Total clients: 4
+2024-12-20 16:02:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-20 16:02:47 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-20 16:04:21 [INFO] Client registered. Total clients: 1
+2024-12-20 16:04:21 [INFO] Client registered. Total clients: 2
+2024-12-20 16:04:21 [INFO] Client registered. Total clients: 3
+2024-12-20 16:04:21 [ERROR] Error handling message: name 'path' is not defined
+2024-12-20 16:04:21 [INFO] Client registered. Total clients: 4
+2024-12-20 16:04:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-20 16:06:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-20 16:06:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-20 16:12:39 [INFO] Client connection closed normally
+2024-12-20 16:12:39 [INFO] Client connection closed normally
+2024-12-20 16:12:39 [INFO] Client connection closed normally
+2024-12-20 18:14:04 [INFO] Client connection closed normally
+2024-12-20 18:35:07 [INFO] Client registered. Total clients: 1
+2024-12-20 18:35:07 [INFO] Client registered. Total clients: 2
+2024-12-20 18:35:07 [INFO] Client registered. Total clients: 3
+2024-12-20 18:35:07 [INFO] Client registered. Total clients: 4
+2024-12-20 18:35:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-20 19:24:20 [INFO] Client registered. Total clients: 1
+2024-12-20 19:24:22 [INFO] Client registered. Total clients: 2
+2024-12-20 19:24:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-20 19:24:22 [INFO] Client registered. Total clients: 3
+2024-12-20 19:24:22 [INFO] Client registered. Total clients: 4
+2024-12-20 19:24:51 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-20 19:25:05 [INFO] Shutdown signal received...
+2024-12-20 19:25:05 [INFO] Stopping console updates...
+2024-12-20 19:25:05 [INFO] WebSocket server shutdown initiated
+2024-12-20 19:25:05 [INFO] Tasks cancelled, shutting down...
+2024-12-20 19:25:05 [INFO] Application shutdown complete
+2024-12-21 12:40:37 [INFO] Loaded threat intelligence data: 3 IPs, 2 patterns
+2024-12-21 12:40:37 [INFO] Starting console updates...
+2024-12-21 12:40:37 [INFO] Starting network monitoring...
+2024-12-21 12:40:38 [INFO] WebSocket server started on ws://localhost:8765
+2024-12-21 12:41:09 [INFO] Client registered. Total clients: 1
+2024-12-21 12:41:09 [INFO] Client registered. Total clients: 2
+2024-12-21 12:41:09 [INFO] Client registered. Total clients: 3
+2024-12-21 12:41:09 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 12:41:14 [INFO] Client registered. Total clients: 4
+2024-12-21 12:48:25 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-21 12:48:33 [INFO] Client registered. Total clients: 1
+2024-12-21 12:48:34 [INFO] Client registered. Total clients: 2
+2024-12-21 12:48:34 [INFO] Client registered. Total clients: 3
+2024-12-21 12:48:34 [INFO] Client registered. Total clients: 4
+2024-12-21 12:48:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 12:48:54 [INFO] Client registered. Total clients: 5
+2024-12-21 12:48:54 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 12:48:56 [INFO] Client registered. Total clients: 1
+2024-12-21 12:48:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 12:48:56 [INFO] Client registered. Total clients: 2
+2024-12-21 12:48:56 [INFO] Client registered. Total clients: 3
+2024-12-21 12:48:56 [INFO] Client registered. Total clients: 4
+2024-12-21 12:49:09 [INFO] Client registered. Total clients: 1
+2024-12-21 12:49:09 [INFO] Client registered. Total clients: 2
+2024-12-21 12:49:09 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 12:49:09 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 12:49:09 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 12:49:09 [INFO] Client registered. Total clients: 3
+2024-12-21 12:49:09 [INFO] Client registered. Total clients: 4
+2024-12-21 12:49:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 12:49:48 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 12:57:17 [INFO] Client connection closed normally
+2024-12-21 12:57:17 [ERROR] Error in metric broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-21 12:57:18 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-21 12:57:18 [INFO] Client connection closed normally
+2024-12-21 12:57:18 [INFO] Client connection closed normally
+2024-12-21 12:57:18 [INFO] Client connection closed normally
+2024-12-21 12:57:46 [INFO] Client registered. Total clients: 1
+2024-12-21 12:57:46 [INFO] Client registered. Total clients: 2
+2024-12-21 12:58:29 [INFO] Client connection closed normally
+2024-12-21 12:58:29 [INFO] Client connection closed normally
+2024-12-21 12:58:29 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 12:58:29 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 12:58:58 [INFO] Shutdown signal received...
+2024-12-21 12:58:58 [INFO] Stopping console updates...
+2024-12-21 12:58:58 [INFO] WebSocket server shutdown initiated
+2024-12-21 12:58:58 [INFO] Tasks cancelled, shutting down...
+2024-12-21 12:58:58 [INFO] Application shutdown complete
+2024-12-21 12:59:01 [INFO] Loaded threat intelligence data: 3 IPs, 2 patterns
+2024-12-21 12:59:01 [INFO] Starting console updates...
+2024-12-21 12:59:01 [INFO] Starting network monitoring...
+2024-12-21 12:59:03 [INFO] WebSocket server started on ws://localhost:8765
+2024-12-21 13:01:43 [INFO] Client registered. Total clients: 1
+2024-12-21 13:01:43 [INFO] Client registered. Total clients: 2
+2024-12-21 13:01:44 [INFO] Client connection closed normally
+2024-12-21 13:01:44 [INFO] Client connection closed normally
+2024-12-21 13:01:44 [INFO] Client registered. Total clients: 1
+2024-12-21 13:01:44 [INFO] Client registered. Total clients: 2
+2024-12-21 13:01:58 [INFO] Client connection closed normally
+2024-12-21 13:01:58 [INFO] Client connection closed normally
+2024-12-21 13:01:58 [INFO] Client registered. Total clients: 1
+2024-12-21 13:01:58 [INFO] Client registered. Total clients: 2
+2024-12-21 13:02:31 [INFO] Client connection closed normally
+2024-12-21 13:02:31 [INFO] Client registered. Total clients: 2
+2024-12-21 13:02:31 [INFO] Client connection closed normally
+2024-12-21 13:02:31 [INFO] Client registered. Total clients: 2
+2024-12-21 13:02:32 [INFO] Client connection closed normally
+2024-12-21 13:02:32 [INFO] Client registered. Total clients: 2
+2024-12-21 13:02:33 [ERROR] Error in metric broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-21 13:02:33 [INFO] Client connection closed normally
+2024-12-21 13:02:33 [INFO] Client registered. Total clients: 2
+2024-12-21 13:02:53 [INFO] Client connection closed normally
+2024-12-21 13:02:53 [INFO] Client registered. Total clients: 2
+2024-12-21 13:02:53 [INFO] Client connection closed normally
+2024-12-21 13:02:53 [INFO] Client registered. Total clients: 2
+2024-12-21 13:02:53 [INFO] Client connection closed normally
+2024-12-21 13:02:53 [INFO] Client registered. Total clients: 2
+2024-12-21 13:02:58 [INFO] Client connection closed normally
+2024-12-21 13:02:58 [INFO] Client registered. Total clients: 2
+2024-12-21 13:03:10 [INFO] Client connection closed normally
+2024-12-21 13:03:10 [INFO] Client registered. Total clients: 2
+2024-12-21 13:03:10 [INFO] Client connection closed normally
+2024-12-21 13:03:10 [INFO] Client registered. Total clients: 2
+2024-12-21 13:03:12 [INFO] Client connection closed normally
+2024-12-21 13:03:13 [INFO] Client registered. Total clients: 2
+2024-12-21 13:03:13 [INFO] Client connection closed normally
+2024-12-21 13:03:13 [INFO] Client registered. Total clients: 2
+2024-12-21 13:03:15 [INFO] Client connection closed normally
+2024-12-21 13:03:15 [INFO] Client registered. Total clients: 2
+2024-12-21 13:03:16 [INFO] Client connection closed normally
+2024-12-21 13:03:16 [INFO] Client registered. Total clients: 2
+2024-12-21 13:03:19 [INFO] Client connection closed normally
+2024-12-21 13:03:19 [ERROR] Error in metric broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-21 13:03:19 [INFO] Client connection closed normally
+2024-12-21 13:03:19 [INFO] Client registered. Total clients: 1
+2024-12-21 13:03:19 [INFO] Client registered. Total clients: 2
+2024-12-21 13:03:19 [INFO] Client registered. Total clients: 3
+2024-12-21 13:03:19 [INFO] Client registered. Total clients: 4
+2024-12-21 13:03:19 [INFO] Client registered. Total clients: 5
+2024-12-21 13:03:19 [INFO] Client registered. Total clients: 6
+2024-12-21 13:03:19 [INFO] Client registered. Total clients: 7
+2024-12-21 13:03:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:03:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:03:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:04:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:04:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:22:03 [INFO] Client registered. Total clients: 1
+2024-12-21 13:22:03 [INFO] Client registered. Total clients: 2
+2024-12-21 13:22:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:22:03 [INFO] Client registered. Total clients: 3
+2024-12-21 13:22:03 [INFO] Client registered. Total clients: 4
+2024-12-21 13:22:07 [INFO] Client registered. Total clients: 1
+2024-12-21 13:22:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:22:07 [INFO] Client registered. Total clients: 2
+2024-12-21 13:22:07 [INFO] Client registered. Total clients: 3
+2024-12-21 13:22:07 [INFO] Client registered. Total clients: 4
+2024-12-21 13:22:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:22:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:22:48 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:22:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:29:29 [INFO] Shutdown signal received...
+2024-12-21 13:29:29 [INFO] Stopping console updates...
+2024-12-21 13:29:29 [INFO] WebSocket server shutdown initiated
+2024-12-21 13:29:29 [INFO] Tasks cancelled, shutting down...
+2024-12-21 13:29:29 [INFO] Application shutdown complete
+2024-12-21 13:48:59 [INFO] Loaded threat intelligence data: 3 IPs, 2 patterns
+2024-12-21 13:48:59 [INFO] Starting console updates...
+2024-12-21 13:48:59 [INFO] Starting network monitoring...
+2024-12-21 13:49:00 [INFO] WebSocket server started on ws://localhost:8765
+2024-12-21 13:49:15 [INFO] Client registered. Total clients: 1
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:49:15 [INFO] Client registered. Total clients: 2
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:49:15 [INFO] Client registered. Total clients: 3
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:49:15 [INFO] Client registered. Total clients: 4
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:49:15 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:06 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:09 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:21 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:51 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:53 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:54 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:50:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:51:01 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:51:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:51:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [INFO] Client registered. Total clients: 1
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [INFO] Client registered. Total clients: 2
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [INFO] Client registered. Total clients: 3
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [INFO] Client registered. Total clients: 4
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:52:34 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:56:59 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:57:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:58:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:58:17 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 13:58:50 [INFO] Shutdown signal received...
+2024-12-21 13:58:50 [INFO] Stopping console updates...
+2024-12-21 13:58:50 [INFO] WebSocket server shutdown initiated
+2024-12-21 13:58:50 [INFO] Tasks cancelled, shutting down...
+2024-12-21 13:58:50 [INFO] Application shutdown complete
+2024-12-21 14:21:44 [INFO] Loaded threat intelligence data: 3 IPs, 2 patterns
+2024-12-21 14:21:45 [INFO] Starting console updates...
+2024-12-21 14:21:45 [INFO] Starting network monitoring...
+2024-12-21 14:21:45 [INFO] WebSocket server started on ws://localhost:8765
+2024-12-21 14:22:13 [INFO] Client registered. Total clients: 1
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:22:13 [INFO] Client registered. Total clients: 2
+2024-12-21 14:22:13 [INFO] Client registered. Total clients: 3
+2024-12-21 14:22:13 [INFO] Client registered. Total clients: 4
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:22:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [INFO] Client registered. Total clients: 1
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [INFO] Client registered. Total clients: 2
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [INFO] Client registered. Total clients: 3
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [INFO] Client registered. Total clients: 4
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:36:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:37:02 [INFO] Shutdown signal received...
+2024-12-21 14:37:02 [INFO] Stopping console updates...
+2024-12-21 14:37:02 [INFO] WebSocket server shutdown initiated
+2024-12-21 14:37:02 [INFO] Tasks cancelled, shutting down...
+2024-12-21 14:37:02 [INFO] Application shutdown complete
+2024-12-21 14:37:05 [INFO] Loaded threat intelligence data: 3 IPs, 2 patterns
+2024-12-21 14:37:05 [INFO] Starting console updates...
+2024-12-21 14:37:05 [INFO] Starting network monitoring...
+2024-12-21 14:37:05 [INFO] WebSocket server started on ws://localhost:8765
+2024-12-21 14:40:04 [INFO] Client registered. Total clients: 1
+2024-12-21 14:40:04 [INFO] Client registered. Total clients: 2
+2024-12-21 14:40:04 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:04 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:04 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:04 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:04 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:04 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:08 [INFO] Client registered. Total clients: 3
+2024-12-21 14:40:08 [INFO] Client registered. Total clients: 3
+2024-12-21 14:40:08 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 14:40:08 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 14:40:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:25 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:29 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-21 14:40:29 [INFO] Client registered. Total clients: 3
+2024-12-21 14:40:29 [ERROR] Error in metric broadcast: <websockets.asyncio.server.ServerConnection object at 0x000001D32349A8B0>
+2024-12-21 14:40:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:29 [INFO] Client registered. Total clients: 4
+2024-12-21 14:40:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:41 [INFO] Client registered. Total clients: 4
+2024-12-21 14:40:41 [INFO] Client registered. Total clients: 5
+2024-12-21 14:40:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:40:59 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:41:23 [INFO] Client registered. Total clients: 5
+2024-12-21 14:41:23 [INFO] Client registered. Total clients: 6
+2024-12-21 14:41:23 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:41:23 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:41:23 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:41:23 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:41:23 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:41:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:41:59 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:42:08 [INFO] Client registered. Total clients: 6
+2024-12-21 14:42:08 [INFO] Client registered. Total clients: 7
+2024-12-21 14:42:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:42:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:42:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:42:08 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:45:35 [INFO] Client registered. Total clients: 8
+2024-12-21 14:45:35 [INFO] Client registered. Total clients: 9
+2024-12-21 14:45:35 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 14:45:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:45:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:45:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:45:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:45:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:45:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:45:42 [INFO] Client registered. Total clients: 8
+2024-12-21 14:45:42 [INFO] Client registered. Total clients: 9
+2024-12-21 14:45:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:45:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:45:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:45:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:27 [INFO] Client registered. Total clients: 10
+2024-12-21 14:47:27 [INFO] Client registered. Total clients: 11
+2024-12-21 14:47:27 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:27 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:27 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:27 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:27 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:27 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:35 [INFO] Client registered. Total clients: 11
+2024-12-21 14:47:35 [INFO] Client registered. Total clients: 11
+2024-12-21 14:47:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:42 [INFO] Client registered. Total clients: 12
+2024-12-21 14:47:42 [INFO] Client registered. Total clients: 13
+2024-12-21 14:47:42 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 14:47:42 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 14:47:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:42 [INFO] Client registered. Total clients: 13
+2024-12-21 14:47:42 [INFO] Client registered. Total clients: 14
+2024-12-21 14:47:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:58 [INFO] Client registered. Total clients: 15
+2024-12-21 14:47:58 [INFO] Client registered. Total clients: 16
+2024-12-21 14:47:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:47:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:49:14 [INFO] Client registered. Total clients: 15
+2024-12-21 14:49:14 [INFO] Client registered. Total clients: 16
+2024-12-21 14:49:24 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:49:24 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:49:24 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:49:24 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:50:25 [INFO] Client connection closed normally
+2024-12-21 14:50:31 [INFO] Client connection closed normally
+2024-12-21 14:50:36 [INFO] Client connection closed normally
+2024-12-21 14:50:36 [INFO] Client connection closed normally
+2024-12-21 14:50:36 [INFO] Client connection closed normally
+2024-12-21 14:50:36 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 14:50:36 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 14:50:36 [INFO] Client connection closed normally
+2024-12-21 14:50:37 [INFO] Client connection closed normally
+2024-12-21 14:50:41 [INFO] Client connection closed normally
+2024-12-21 14:50:43 [INFO] Client connection closed normally
+2024-12-21 14:50:43 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 14:50:43 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 14:50:44 [INFO] Client connection closed normally
+2024-12-21 14:50:49 [INFO] Client connection closed normally
+2024-12-21 14:50:49 [INFO] Client connection closed normally
+2024-12-21 14:50:49 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 14:50:49 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 14:50:51 [INFO] Client connection closed normally
+2024-12-21 14:51:26 [INFO] Client connection closed normally
+2024-12-21 14:51:26 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 14:51:26 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 14:51:38 [INFO] Client connection closed normally
+2024-12-21 14:51:38 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 14:51:38 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 14:51:38 [INFO] Client connection closed normally
+2024-12-21 14:55:31 [INFO] Client registered. Total clients: 1
+2024-12-21 14:55:31 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:31 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:31 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:31 [INFO] Client registered. Total clients: 2
+2024-12-21 14:55:32 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:32 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:32 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:39 [INFO] Client registered. Total clients: 1
+2024-12-21 14:55:39 [INFO] Client registered. Total clients: 2
+2024-12-21 14:55:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:45 [INFO] Client registered. Total clients: 2
+2024-12-21 14:55:45 [INFO] Client registered. Total clients: 3
+2024-12-21 14:55:45 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:45 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:45 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:45 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:45 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 14:55:45 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:00:52 [INFO] Client registered. Total clients: 3
+2024-12-21 15:00:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:00:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:00:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:00:52 [INFO] Client registered. Total clients: 4
+2024-12-21 15:00:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:00:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:00:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:41 [INFO] Client registered. Total clients: 1
+2024-12-21 15:01:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:41 [INFO] Client registered. Total clients: 2
+2024-12-21 15:01:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:41 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:51 [INFO] Client registered. Total clients: 2
+2024-12-21 15:01:51 [INFO] Client registered. Total clients: 3
+2024-12-21 15:01:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:58 [INFO] Client registered. Total clients: 4
+2024-12-21 15:01:58 [INFO] Client registered. Total clients: 5
+2024-12-21 15:01:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:01:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:02:10 [INFO] Client registered. Total clients: 4
+2024-12-21 15:02:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:02:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:02:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:02:10 [INFO] Client registered. Total clients: 5
+2024-12-21 15:02:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:02:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:02:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:05:53 [INFO] Client registered. Total clients: 1
+2024-12-21 15:05:53 [INFO] Client registered. Total clients: 2
+2024-12-21 15:05:55 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:05:55 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:05:55 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:05:55 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:05:55 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:05:55 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:07:07 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:07:07 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:07:07 [INFO] Client registered. Total clients: 1
+2024-12-21 15:07:07 [INFO] Client registered. Total clients: 2
+2024-12-21 15:07:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:07:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:07:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:07:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:07:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:07:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:18 [INFO] Client registered. Total clients: 3
+2024-12-21 15:08:18 [INFO] Client registered. Total clients: 4
+2024-12-21 15:08:18 [INFO] Client connection closed normally
+2024-12-21 15:08:19 [INFO] Client connection closed normally
+2024-12-21 15:08:28 [ERROR] Error in metric broadcast: <websockets.asyncio.server.ServerConnection object at 0x000001D324336520>
+2024-12-21 15:08:28 [ERROR] Error in connection broadcast: <websockets.asyncio.server.ServerConnection object at 0x000001D324336520>
+2024-12-21 15:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:28 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-21 15:08:28 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-21 15:08:28 [ERROR] Timeout getting Windows connection info for 35.233.131.14
+2024-12-21 15:08:28 [ERROR] Timeout getting Windows connection info for 35.233.131.14
+2024-12-21 15:08:28 [ERROR] Timeout getting Windows connection info for 52.96.20.82
+2024-12-21 15:08:28 [ERROR] Timeout getting Windows connection info for 35.174.127.31
+2024-12-21 15:08:28 [ERROR] Timeout getting Windows connection info for 13.64.180.106
+2024-12-21 15:08:28 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-21 15:08:28 [ERROR] Timeout getting Windows connection info for 23.67.33.152
+2024-12-21 15:08:29 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-21 15:08:32 [INFO] Client registered. Total clients: 3
+2024-12-21 15:08:33 [INFO] Client registered. Total clients: 4
+2024-12-21 15:08:36 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:36 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:36 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:36 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:36 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:36 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:08:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:09:11 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:09:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:09:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:09:25 [ERROR] Error in metric broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-21 15:09:25 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 35.233.131.14
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 35.174.127.31
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 13.107.5.93
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 69.192.139.219
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 204.79.197.203
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 13.107.5.93
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 35.233.131.14
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 69.192.139.219
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 23.67.33.139
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 52.96.20.82
+2024-12-21 15:09:37 [ERROR] Timeout getting Windows connection info for 13.64.180.106
+2024-12-21 15:09:39 [INFO] Client registered. Total clients: 4
+2024-12-21 15:09:39 [INFO] Client registered. Total clients: 5
+2024-12-21 15:10:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:07 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:11 [INFO] Client registered. Total clients: 6
+2024-12-21 15:10:11 [INFO] Client registered. Total clients: 7
+2024-12-21 15:10:13 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:10:13 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:10:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:38 [INFO] Client registered. Total clients: 7
+2024-12-21 15:10:38 [INFO] Client registered. Total clients: 8
+2024-12-21 15:10:38 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:10:38 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:10:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:42 [INFO] Client registered. Total clients: 8
+2024-12-21 15:10:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:42 [INFO] Client registered. Total clients: 8
+2024-12-21 15:10:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:10:42 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:17 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:18 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:32 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:36 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:36 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:38 [INFO] Client registered. Total clients: 9
+2024-12-21 15:11:38 [INFO] Client registered. Total clients: 10
+2024-12-21 15:11:38 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:11:38 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:11:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:11:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:14:21 [INFO] Client registered. Total clients: 10
+2024-12-21 15:14:22 [INFO] Client registered. Total clients: 11
+2024-12-21 15:14:22 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:14:22 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:14:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:14:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:14:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:14:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:14:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:14:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:19:48 [INFO] Client registered. Total clients: 11
+2024-12-21 15:19:48 [INFO] Client registered. Total clients: 11
+2024-12-21 15:19:48 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:19:48 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:19:48 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:19:48 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:19:48 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:19:48 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:19:48 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:19:48 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:12 [INFO] Client registered. Total clients: 12
+2024-12-21 15:20:13 [INFO] Client registered. Total clients: 12
+2024-12-21 15:20:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:13 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:28 [INFO] Client registered. Total clients: 13
+2024-12-21 15:20:28 [INFO] Client registered. Total clients: 14
+2024-12-21 15:20:28 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:20:28 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:20:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:48 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:48 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:20:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:21:02 [INFO] Client registered. Total clients: 13
+2024-12-21 15:21:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:21:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:21:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:21:02 [INFO] Client registered. Total clients: 14
+2024-12-21 15:21:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:21:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:21:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:20 [INFO] Client registered. Total clients: 15
+2024-12-21 15:22:20 [INFO] Client registered. Total clients: 16
+2024-12-21 15:22:20 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:22:20 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:22:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:26 [INFO] Client registered. Total clients: 16
+2024-12-21 15:22:26 [INFO] Client registered. Total clients: 17
+2024-12-21 15:22:26 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:22:26 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:22:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:22:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:56:36 [INFO] Client registered. Total clients: 16
+2024-12-21 15:56:37 [INFO] Client registered. Total clients: 17
+2024-12-21 15:56:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:56:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:56:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:56:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:56:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:56:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:03 [INFO] Client registered. Total clients: 18
+2024-12-21 15:57:03 [INFO] Client registered. Total clients: 19
+2024-12-21 15:57:03 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:57:03 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:57:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:25 [INFO] Client registered. Total clients: 19
+2024-12-21 15:57:25 [INFO] Client registered. Total clients: 20
+2024-12-21 15:57:25 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:57:25 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:57:25 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:25 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:25 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:25 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:25 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:25 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:25 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:47 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:53 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:57:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:10 [INFO] Client registered. Total clients: 1
+2024-12-21 15:58:10 [INFO] Client registered. Total clients: 2
+2024-12-21 15:58:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:26 [INFO] Client registered. Total clients: 1
+2024-12-21 15:58:26 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 15:58:26 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-21 15:58:26 [INFO] Client registered. Total clients: 2
+2024-12-21 15:58:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:58:26 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:59:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:59:06 [INFO] Client registered. Total clients: 1
+2024-12-21 15:59:06 [INFO] Client registered. Total clients: 2
+2024-12-21 15:59:06 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:59:06 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:59:06 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:59:06 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:59:06 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:59:06 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:59:06 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:59:21 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 15:59:31 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:12 [INFO] Client registered. Total clients: 2
+2024-12-21 16:00:12 [INFO] Client registered. Total clients: 3
+2024-12-21 16:00:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:16 [INFO] Client registered. Total clients: 4
+2024-12-21 16:00:16 [INFO] Client registered. Total clients: 5
+2024-12-21 16:00:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:00:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [INFO] Client registered. Total clients: 5
+2024-12-21 16:09:38 [INFO] Client registered. Total clients: 6
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [INFO] Client registered. Total clients: 6
+2024-12-21 16:09:38 [INFO] Client registered. Total clients: 7
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:40 [INFO] Client registered. Total clients: 8
+2024-12-21 16:09:40 [ERROR] Error in connection broadcast: <websockets.asyncio.server.ServerConnection object at 0x000001D32349B230>
+2024-12-21 16:09:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:40 [INFO] Client registered. Total clients: 8
+2024-12-21 16:09:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:40 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:46 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-21 16:09:46 [INFO] Client registered. Total clients: 8
+2024-12-21 16:09:46 [INFO] Client registered. Total clients: 9
+2024-12-21 16:09:46 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-21 16:09:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:09:46 [ERROR] Error handling message: name 'path' is not defined
+2024-12-21 16:10:50 [INFO] Shutdown signal received...
+2024-12-21 16:10:50 [INFO] Stopping console updates...
+2024-12-21 16:10:50 [INFO] WebSocket server shutdown initiated
+2024-12-21 16:10:50 [INFO] Tasks cancelled, shutting down...
+2024-12-21 16:10:50 [INFO] Application shutdown complete
+2024-12-22 18:06:26 [INFO] Loaded threat intelligence data: 3 IPs, 2 patterns
+2024-12-22 18:06:26 [INFO] Starting console updates...
+2024-12-22 18:06:26 [INFO] Starting network monitoring...
+2024-12-22 18:06:28 [INFO] WebSocket server started on ws://localhost:8765
+2024-12-22 18:07:00 [INFO] Client registered. Total clients: 1
+2024-12-22 18:07:00 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:00 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:00 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:00 [INFO] Client registered. Total clients: 2
+2024-12-22 18:07:00 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:00 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:01 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:20 [INFO] Client registered. Total clients: 2
+2024-12-22 18:07:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:20 [INFO] Client registered. Total clients: 3
+2024-12-22 18:07:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:20 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:23 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:27 [INFO] Client registered. Total clients: 1
+2024-12-22 18:07:27 [INFO] Client registered. Total clients: 2
+2024-12-22 18:07:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:43 [INFO] Client registered. Total clients: 3
+2024-12-22 18:07:44 [INFO] Client registered. Total clients: 3
+2024-12-22 18:07:44 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-22 18:07:44 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-22 18:07:44 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:44 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:44 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:44 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:44 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:07:44 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [INFO] Client registered. Total clients: 4
+2024-12-22 18:08:02 [ERROR] Error in metric broadcast: <websockets.asyncio.server.ServerConnection object at 0x00000259B406A650>
+2024-12-22 18:08:02 [ERROR] Error in connection broadcast: <websockets.asyncio.server.ServerConnection object at 0x00000259B406A650>
+2024-12-22 18:08:02 [INFO] Client registered. Total clients: 4
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [INFO] Client registered. Total clients: 5
+2024-12-22 18:08:02 [INFO] Client registered. Total clients: 6
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:02 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:10 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-22 18:08:10 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-22 18:08:15 [INFO] Client registered. Total clients: 6
+2024-12-22 18:08:16 [INFO] Client registered. Total clients: 7
+2024-12-22 18:08:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [INFO] Client registered. Total clients: 8
+2024-12-22 18:08:28 [INFO] Client registered. Total clients: 9
+2024-12-22 18:08:28 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-22 18:08:28 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [INFO] Client registered. Total clients: 9
+2024-12-22 18:08:28 [INFO] Client registered. Total clients: 10
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:28 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [INFO] Client registered. Total clients: 11
+2024-12-22 18:08:58 [INFO] Client registered. Total clients: 12
+2024-12-22 18:08:58 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-22 18:08:58 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [INFO] Client registered. Total clients: 12
+2024-12-22 18:08:58 [INFO] Client registered. Total clients: 13
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:08:58 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:19:13 [ERROR] Timeout getting Windows connection info for 23.67.33.152
+2024-12-22 18:19:13 [ERROR] Timeout getting Windows connection info for 35.233.224.113
+2024-12-22 18:19:14 [ERROR] Timeout getting Windows connection info for 34.237.73.95
+2024-12-22 18:19:15 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:15 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:15 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:16 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:16 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:16 [ERROR] Timeout getting Windows connection info for 34.98.110.65
+2024-12-22 18:19:16 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:16 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:16 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:17 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:17 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for 69.192.139.109
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for 34.98.110.65
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for 13.64.180.106
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for 52.109.2.217
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for 35.233.131.14
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:19:18 [ERROR] Timeout getting Windows connection info for ::1
+2024-12-22 18:20:17 [INFO] Client connection closed normally
+2024-12-22 18:20:17 [INFO] Client connection closed normally
+2024-12-22 18:20:17 [INFO] Client connection closed normally
+2024-12-22 18:20:17 [INFO] Client connection closed normally
+2024-12-22 18:20:17 [INFO] Client connection closed normally
+2024-12-22 18:20:17 [INFO] Client connection closed normally
+2024-12-22 18:20:17 [INFO] Client connection closed normally
+2024-12-22 18:20:17 [INFO] Client connection closed normally
+2024-12-22 18:20:17 [INFO] Client connection closed normally
+2024-12-22 18:20:17 [INFO] Client connection closed normally
+2024-12-22 18:20:18 [INFO] Client connection closed normally
+2024-12-22 18:20:18 [INFO] Client connection closed normally
+2024-12-22 18:20:18 [INFO] Client connection closed normally
+2024-12-22 18:20:18 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-22 18:20:18 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-22 18:21:38 [INFO] Client registered. Total clients: 1
+2024-12-22 18:21:38 [INFO] Client registered. Total clients: 2
+2024-12-22 18:21:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:21:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:21:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:21:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:21:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:21:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:21:38 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:25:17 [INFO] Client registered. Total clients: 1
+2024-12-22 18:25:18 [INFO] Client registered. Total clients: 1
+2024-12-22 18:25:18 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:25:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:25:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:25:51 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:26:16 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:26:27 [INFO] Client registered. Total clients: 1
+2024-12-22 18:26:27 [INFO] Client registered. Total clients: 2
+2024-12-22 18:26:27 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:26:30 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:27:07 [INFO] Client connection closed normally
+2024-12-22 18:27:07 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-22 18:27:07 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-22 18:35:49 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-22 18:35:50 [INFO] Client registered. Total clients: 1
+2024-12-22 18:35:50 [INFO] Client registered. Total clients: 2
+2024-12-22 18:36:20 [INFO] Client connection closed normally
+2024-12-22 18:36:20 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-22 18:36:20 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-22 18:36:20 [INFO] Client connection closed normally
+2024-12-22 18:36:39 [INFO] Client registered. Total clients: 1
+2024-12-22 18:36:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:39 [INFO] Client registered. Total clients: 2
+2024-12-22 18:36:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:39 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:43 [INFO] Client registered. Total clients: 3
+2024-12-22 18:36:43 [INFO] Client registered. Total clients: 4
+2024-12-22 18:36:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:36:45 [ERROR] Error handling message: name 'path' is not defined
+2024-12-22 18:41:38 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-22 18:41:46 [INFO] Shutdown signal received...
+2024-12-22 18:41:46 [INFO] Stopping console updates...
+2024-12-22 18:41:46 [INFO] WebSocket server shutdown initiated
+2024-12-22 18:41:46 [INFO] Tasks cancelled, shutting down...
+2024-12-22 18:41:46 [INFO] Application shutdown complete
+2024-12-23 12:50:21 [INFO] Loaded threat intelligence data: 3 IPs, 2 patterns
+2024-12-23 12:50:21 [INFO] Starting console updates...
+2024-12-23 12:50:21 [INFO] Starting network monitoring...
+2024-12-23 12:50:22 [INFO] WebSocket server started on ws://localhost:8765
+2024-12-23 12:50:52 [INFO] Client registered. Total clients: 1
+2024-12-23 12:50:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:50:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:50:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:50:52 [INFO] Client registered. Total clients: 2
+2024-12-23 12:50:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:50:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:50:52 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:03 [INFO] Client registered. Total clients: 2
+2024-12-23 12:51:03 [INFO] Client registered. Total clients: 3
+2024-12-23 12:51:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:03 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:05 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:11 [INFO] Client registered. Total clients: 1
+2024-12-23 12:51:11 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-23 12:51:11 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-23 12:51:11 [INFO] Client registered. Total clients: 2
+2024-12-23 12:51:11 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:11 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:11 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:11 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:11 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:11 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 12:51:11 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:22 [INFO] Client registered. Total clients: 1
+2024-12-23 13:06:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:22 [INFO] Client registered. Total clients: 2
+2024-12-23 13:06:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:22 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:29 [INFO] Client registered. Total clients: 3
+2024-12-23 13:06:29 [INFO] Client registered. Total clients: 4
+2024-12-23 13:06:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:29 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:35 [INFO] Client registered. Total clients: 4
+2024-12-23 13:06:35 [INFO] Client registered. Total clients: 4
+2024-12-23 13:06:35 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-23 13:06:35 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-23 13:06:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:35 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:43 [INFO] Client registered. Total clients: 4
+2024-12-23 13:06:43 [INFO] Client registered. Total clients: 5
+2024-12-23 13:06:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:49 [INFO] Client registered. Total clients: 6
+2024-12-23 13:06:49 [INFO] Client registered. Total clients: 7
+2024-12-23 13:06:49 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-23 13:06:49 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-23 13:06:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:06:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:14:53 [ERROR] Error in metric broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-23 13:14:53 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-23 13:14:53 [INFO] Client connection closed normally
+2024-12-23 13:14:53 [INFO] Client connection closed normally
+2024-12-23 13:14:53 [INFO] Client connection closed normally
+2024-12-23 13:14:53 [INFO] Client connection closed normally
+2024-12-23 13:14:53 [INFO] Client connection closed normally
+2024-12-23 13:14:53 [INFO] Client connection closed normally
+2024-12-23 13:14:56 [INFO] Client registered. Total clients: 1
+2024-12-23 13:14:56 [INFO] Client registered. Total clients: 2
+2024-12-23 13:14:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:14:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:14:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:14:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:14:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:14:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:14:56 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:15:52 [INFO] Client registered. Total clients: 3
+2024-12-23 13:15:53 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:15:53 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:15:53 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:15:53 [INFO] Client registered. Total clients: 3
+2024-12-23 13:15:53 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:15:53 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:15:53 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:09 [INFO] Client registered. Total clients: 4
+2024-12-23 13:16:09 [INFO] Client registered. Total clients: 5
+2024-12-23 13:16:09 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-23 13:16:09 [ERROR] Error in connection broadcast: Set changed size during iteration
+2024-12-23 13:16:09 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:09 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:09 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:09 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:09 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:09 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:09 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:10 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:12 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 13:16:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:43 [INFO] Client registered. Total clients: 1
+2024-12-23 14:07:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:43 [INFO] Client registered. Total clients: 2
+2024-12-23 14:07:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:43 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:49 [INFO] Client registered. Total clients: 3
+2024-12-23 14:07:49 [ERROR] Error in connection broadcast: 'WebSocketServer' object has no attribute 'metric_tasks'
+2024-12-23 14:07:49 [INFO] Client registered. Total clients: 3
+2024-12-23 14:07:49 [ERROR] Error in metric broadcast: Set changed size during iteration
+2024-12-23 14:07:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:07:49 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:14 [INFO] Client registered. Total clients: 3
+2024-12-23 14:08:14 [INFO] Client registered. Total clients: 4
+2024-12-23 14:08:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:14 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:37 [INFO] Client registered. Total clients: 4
+2024-12-23 14:08:37 [INFO] Client registered. Total clients: 5
+2024-12-23 14:08:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:08:37 [ERROR] Error handling message: name 'path' is not defined
+2024-12-23 14:09:03 [INFO] Shutdown signal received...
+2024-12-23 14:09:03 [INFO] Stopping console updates...
+2024-12-23 14:09:03 [INFO] WebSocket server shutdown initiated
+2024-12-23 14:09:03 [INFO] Tasks cancelled, shutting down...
+2024-12-23 14:09:03 [INFO] Application shutdown complete
